@@ -1,0 +1,2 @@
+# bigbangcoreimages
+BigBang is a block system on the peer-to-peer network. Similar to the popular peer-to-peer digital currency, the transparent ledger is maintained in a decentralized way, and then achieve autonomous secure management and efficient flow of digital assets. BigBang is designed for the IoT(Internet of Things) data requirement. Use blockchain technology to provide a decentralized security management platform, and achieve the performance requirement such as high concurrency and low latency for IoT systems.
